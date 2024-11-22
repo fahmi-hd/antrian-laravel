@@ -23,3 +23,5 @@ tersedia 2 pilihan metode audio yaitu offline dan online menggunakan text to spe
 - jalankan project dengan php artisan serve
 - buka terminal baru ketikkan php artisan queue:work
 - buka terminal baru lalu ketikkan php artisan reverb:start
+
+  butuh bantuan setup hubungi kami via email : fahmihermandito123@gmail.com
